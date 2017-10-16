@@ -1,4 +1,4 @@
-# tuiles.graphique
+# Tuile graphique
 Tuile graphique réalisée sur Adobe Illustrator CC 2017.
 
 
